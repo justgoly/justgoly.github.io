@@ -1,2 +1,2 @@
 # ly.github.io
-# 相关博客内容在Wiki里
+# 相关博客内容部分在Wiki里
